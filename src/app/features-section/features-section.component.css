@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Sofia Pro Regular';
+  src: url('src\assets\Sofia Pro Regular.ttf');
+  font-weight: normal;
+  font-style: normal; }
+
+.color-bg{
+  background-color: #E6EAF0
+  ;
+}
+.fw{
+  font-weight: 900;
+  color: #127682;
+}
